@@ -1,0 +1,60 @@
+txt files
+
+1-dist_type		| 0	| 1	| 2	| 3
+2-mode			| 0	| 1	| 2	| 2
+3-sample_size		| 10	| 200	| 400	| 100
+4-significance_level	| 0.95	| 0.9	| 0.99	| 0.99
+5-t_value		| 1.96	| 1.645	| 2.576	| 2.576
+6-trials		| 20	| 100	| 100	| 50
+7-seed_value		| 100	| 253	| 488	| 15
+
+---------------------------------------------------
+1
+// ----->>>> TODO construct random_sample array
+0.696
+-0.048
+0.478
+-0.044
+0.736
+1.077
+-0.271
+0.105
+-0.883
+1.576
+---------------------------------------------------
+2
+// ---->>>> TODO calculate stddev and mean 
+Already have a formula for lower and upper bounds
+stddev = 0.584599
+mean = -0.013
+lower_bound = -0.082
+upper_bound = 0.055
+---------------------------------------------------
+3
+
+signifance level = 0.990
+precision = 0.980
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
